@@ -155,7 +155,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: url("dnabg.gif") no-repeat;
+  background: url("/Images/dnabg.gif") no-repeat;
   background-size: cover;
   background-position: center;
 }
